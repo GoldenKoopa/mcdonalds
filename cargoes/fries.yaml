@@ -1,0 +1,17 @@
+abbreviation: FR
+available: false
+classes: 160
+colour: 238
+id: 0
+label: FRIE
+longName: fries
+name: Fries
+penaltyLength: 146
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/fries.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 4
