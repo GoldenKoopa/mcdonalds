@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FRIE
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 50
+id: 0
+layout:
+- - - -1
+name: McDonalds
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
